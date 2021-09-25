@@ -931,3 +931,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.25-01.56.10:665][338]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2021.09.25-01.56.10:665][338]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2021.09.25-01.56.11:009][338]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2021.09.25-02.12.56:868][249]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.25-02.13.06:132][319]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.25-02.15.02:084][944]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.25-02.15.08:642][687]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.25-02.15.18:100][709]SourceControl: Error: warning: LF will be replaced by CRLF in .gitattributes.
+[2021.09.25-02.15.18:100][709]SourceControl: Error: The file will have its original line endings in your working directory
+[2021.09.25-02.15.18:100][709]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2021.09.25-02.15.18:100][709]SourceControl: Error: The file will have its original line endings in your working directory
+[2021.09.25-02.15.18:100][709]SourceControl: Error: warning: LF will be replaced by CRLF in README.md.
+[2021.09.25-02.15.18:100][709]SourceControl: Error: The file will have its original line endings in your working directory
+[2021.09.25-02.15.18:472][719]LogSourceControl: commit successful: [master f319813] Initial commit
+[2021.09.25-02.15.18:475][720]SourceControl: [master f319813] Initial commit
+[2021.09.25-02.15.18:475][720]SourceControl:  3 files changed, 18 insertions(+), 2 deletions(-)
+[2021.09.25-02.15.18:475][720]SourceControl:  create mode 100644 .gitignore
+[2021.09.25-02.15.18:475][720]SourceControl:  create mode 100644 README.md
+[2021.09.25-02.15.22:866][206]LogSlate: Window 'Source Control Login' being destroyed
